@@ -2,7 +2,7 @@
 This project is in a very early stage, just testing at the moment ...
 
 Documentation and proper code will be uploaded soon.
- 
+
 #Example
 
 Import framework
