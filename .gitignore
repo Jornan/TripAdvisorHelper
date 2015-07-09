@@ -6,6 +6,7 @@
 !TripAdvisor.framework
 !README.md
 !TripAdvisor.framework/*
+!TripAdvisor/Tripadvisor.framework/*
 
 # ...even if they are in subdirectories
 !*/
