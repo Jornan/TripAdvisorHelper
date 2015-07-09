@@ -5,6 +5,7 @@
 !.gitignore
 !TripAdvisor.framework
 !README.md
- 
+!/TripAdvisor.framework
+
 # ...even if they are in subdirectories
 !*/
